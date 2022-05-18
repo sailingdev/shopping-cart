@@ -1,7 +1,5 @@
 # MERN stack shopping cart
 
-<img src="screenshots/mobile_shop.jpg"/>
-
 ## Intro
 
 I started working on this app a while ago when I was still learning technologies used in this project, so please be aware that
@@ -46,11 +44,11 @@ In case you want to run it without Docker (requires additional setup):
 ### Steps:
 1. Clone repo on your local machine:
 ```
-$ git clone https://github.com/ivan3123708/fullstack-shopping-cart.git
+$ git clone https://github.com/olaf1005/shopping-cart.git
 ```
 2. Run `docker-compose`
 ```
-$ cd fullstack-shopping-cart
+$ cd shopping-cart
 $ docker-compose up -d
 ```
 This will pull images and build 3 containers for each part of the application: `frontent`, `backend` & `db`.
