@@ -44,7 +44,7 @@ In case you want to run it without Docker (requires additional setup):
 ### Steps:
 1. Clone repo on your local machine:
 ```
-$ git clone https://github.com/olaf1005/shopping-cart.git
+$ git clone https://github.com/bigstar888/shopping-cart.git
 ```
 2. Run `docker-compose`
 ```
